@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProjectYears3\\OS\\Problem02\\Problem02.csproj": {}
+    "E:\\ProjectYears3\\OS\\Problem02\\Problem02\\Problem02.csproj": {}
   },
   "projects": {
-    "E:\\ProjectYears3\\OS\\Problem02\\Problem02.csproj": {
+    "E:\\ProjectYears3\\OS\\Problem02\\Problem02\\Problem02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjectYears3\\OS\\Problem02\\Problem02.csproj",
+        "projectUniqueName": "E:\\ProjectYears3\\OS\\Problem02\\Problem02\\Problem02.csproj",
         "projectName": "Problem02",
-        "projectPath": "E:\\ProjectYears3\\OS\\Problem02\\Problem02.csproj",
+        "projectPath": "E:\\ProjectYears3\\OS\\Problem02\\Problem02\\Problem02.csproj",
         "packagesPath": "C:\\Users\\billc\\.nuget\\packages\\",
-        "outputPath": "E:\\ProjectYears3\\OS\\Problem02\\obj\\",
+        "outputPath": "E:\\ProjectYears3\\OS\\Problem02\\Problem02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\billc\\AppData\\Roaming\\NuGet\\NuGet.Config"

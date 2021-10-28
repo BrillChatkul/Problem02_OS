@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.Threading;
 
@@ -36,10 +36,13 @@ namespace Problem02
             Stopwatch sw = new Stopwatch();
             Console.WriteLine("Start...");
             sw.Start();
+            
             P.Start();
             M.Start();
+            
             P.Join();
             M.Join();
+            
             sw.Stop();
             Console.WriteLine("sum={0}", sum);
             Console.WriteLine("Time used: "+ sw.ElapsedMilliseconds.ToString()+"ms");
